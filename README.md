@@ -16,10 +16,12 @@
  </ul>
  
 <h4> Glimpse of the GUI of the application:- </h4>
-<p float="left">
+<p float="middle">
  <img src="./Screenshots/sign-in.png" width="450px" height="350px" hspace="10"/>   </img>
- <img src="./Screenshots/home.png" width="450px" height="350px">   </img>
 </p>
+<p  float="middle">
+  <img src="./Screenshots/home.png" width="450px" height="350px">   </img>
+</p> 
 <p float="left">
  <img src="./Screenshots/report.png" width="450px" height="350px" hspace="10"/>   </img>
  <img src="./Screenshots/reciepts.png" width="450px" height="350px">   </img>
